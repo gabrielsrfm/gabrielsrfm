@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=200&section=header&text=Gabriel%20Serafim&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20|%20FULLSTACK%20DEV&descSize=15&descAlignY=65&descColor=ff0000&animation=fadeIn&fontStyle=bold)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Gabriel%20Serafim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Fullstack&descSize=16&descAlignY=58&descColor=888888&fontFamily=Permanent%20Marker)
 
 <div align="center">
 
