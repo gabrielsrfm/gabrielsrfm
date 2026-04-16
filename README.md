@@ -92,4 +92,4 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eeeeee&height=100&section=footer)
