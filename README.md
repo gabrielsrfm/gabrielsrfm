@@ -86,9 +86,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/calendar?username=gabrielsrfm&theme=github_dark&bg_color=000000&hide_border=true" alt="GitHub Contributions Calendar">
-</div>
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
