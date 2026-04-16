@@ -87,7 +87,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/calendar?username=gabrielsrfm&theme=dark&bg_color=00000000&hide_border=true" alt="GitHub Contributions Calendar">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=gabrielsrfm&theme=dark&background=000000&hide_border=true" alt="GitHub Contributions">
 </div>
 
 ---
