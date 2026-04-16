@@ -1,5 +1,5 @@
 <a href="https://github.com/gabrielsrfm">
-  <img src="https://i.postimg.cc/5Ngvzjq6/20260308-201850-jpg.jpg" width="100%" alt="Synaptara Banner"/>
+  <img src="https://i.postimg.cc/fT1qfJ77/GABRIEL-SERAFIM-FREITAS.png" width="100%" alt="gabrielsrfm Banner"/>
 </a>
 
 <div align="center">
