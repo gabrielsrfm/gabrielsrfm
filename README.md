@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=200&section=header&text=Gabriel%20Serafim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Fullstack&descSize=16&descAlignY=58&descColor=888888&fontFamily=Permanent%20Marker)
+<a href="https://github.com/gabrielsrfm">
+  <img src="[https://i.postimg.cc/5Ngvzjq6/20260308-201850-jpg.jpg](https://postimg.cc/6yLh96mT)" width="100%" alt="Synaptara Banner"/>
+</a>
 
 <div align="center">
 
