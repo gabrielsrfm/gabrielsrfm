@@ -29,7 +29,7 @@ Gosto de entender como as coisas funcionam por baixo dos panos — não só copi
 
 ## Foco no momento
 
-<img align="right" src="assets/flame.jpg" alt="Chama halftone" width="155" style="margin-left: 24px; margin-bottom: 8px;">
+<img align="right" src="assets/flame.png" alt="Chama halftone" width="155" style="margin-left: 24px; margin-bottom: 8px;">
 
 - Construir uma base **sólida em JavaScript** — DOM, APIs, lógica assíncrona, antes de sair pra framework.
 - Aprender **back-end com Node.js**: rotas, banco de dados, autenticação — o que faz um sistema funcionar de verdade.
