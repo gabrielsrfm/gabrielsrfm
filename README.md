@@ -86,7 +86,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
