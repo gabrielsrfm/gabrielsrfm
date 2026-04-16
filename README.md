@@ -1,5 +1,5 @@
 <a href="https://github.com/gabrielsrfm">
-  <img src="[https://i.postimg.cc/5Ngvzjq6/20260308-201850-jpg.jpg](https://postimg.cc/6yLh96mT)" width="100%" alt="Synaptara Banner"/>
+  <img src="https://i.postimg.cc/5Ngvzjq6/20260308-201850-jpg.jpg" width="100%" alt="Synaptara Banner"/>
 </a>
 
 <div align="center">
