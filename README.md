@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-<img align="left" src="assets/brain.jpg" alt="Cérebro halftone" width="175" style="margin-right: 24px; margin-bottom: 8px;">
+<img align="left" src="assets/brain.png" alt="Cérebro halftone" width="175" style="margin-right: 24px; margin-bottom: 8px;">
 
 Estudante de Engenharia de Software na **UniVassouras**, primeiro período, focado em construir uma base sólida no desenvolvimento fullstack.
 
