@@ -84,10 +84,6 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph">
-</div>
-
 ---
 
 <div align="center">
