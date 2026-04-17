@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/1z2gkpv1/9299c4cf-184f-4671-bf32-0b60748f880c.png" width="60%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=footer" width="100%">
 </p>
