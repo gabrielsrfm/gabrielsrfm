@@ -15,31 +15,33 @@
 
 ---
 
-<h2 style="border-bottom: none !important; padding-bottom: 0; margin-bottom: 0;">Sobre mim</h2>
+## Sobre mim
 
-<img align="left" src="assets/brain.png" alt="Cérebro halftone" width="175" style="margin-right: 24px; margin-bottom: 8px;">
+<img align="left" src="assets/brain.png" alt="Cérebro" width="175" style="margin-right: 24px;">
 
-<p>Estudante de Engenharia de Software na <b>UniVassouras</b>, primeiro período, focado em construir uma base sólida no desenvolvimento fullstack. Gosto de entender como as coisas funcionam por baixo dos panos — não só copiar código, mas saber <b>por que</b> ele funciona. Trabalho principalmente com <b>JavaScript</b>, tanto no front quanto no back, e estou constantemente explorando novas ferramentas e conceitos.</p>
+Estudante de Engenharia de Software na **UniVassouras**, primeiro período, focado em construir uma base sólida no desenvolvimento fullstack. Gosto de entender como as coisas funcionam por baixo dos panos — não só copiar código, mas saber **por que** ele funciona. Trabalho principalmente com **JavaScript**, tanto no front quanto no back.
 
-<p><b>Como penso sobre aprender:</b> prefiro construir projetos reais a ficar só assistindo tutorial. Erro, debugo, entendo — e guardo isso melhor do que qualquer slide.</p>
+**Como penso sobre aprender:** prefiro construir projetos reais a ficar só assistindo tutorial. Erro, debugo, entendo — e guardo isso melhor do que qualquer slide.
 
-<div style="clear: both;"></div>
+<hr>
 
----
+<br>
 
-<h2 style="border-bottom: none !important; padding-bottom: 0; margin-bottom: 0;">Foco no momento</h2>
+## Foco no momento
 
-<img align="right" src="assets/flame.png" alt="Chama halftone" width="155" style="margin-left: 24px; margin-bottom: 8px;">
+<img align="right" src="assets/flame.png" alt="Chama" width="155" style="margin-left: 24px;">
 
-<ul>
-  <li>Construir uma base <b>sólida em JavaScript</b> — DOM, APIs, lógica assíncrona, antes de sair pra framework.</li>
-  <li>Aprender <b>back-end com Node.js</b>: rotas, banco de dados, autenticação — o que faz um sistema funcionar de verdade.</li>
-  <li>Melhorar <b>organização e documentação</b> dos projetos desde o início — código limpo não é luxo, é hábito.</li>
-</ul>
+* Construir uma base **sólida em JavaScript** — DOM, APIs, lógica assíncrona.
+* Aprender **back-end com Node.js**: rotas, banco de dados, autenticação.
+* Melhorar **organização e documentação** dos projetos — código limpo é hábito.
 
-<div style="clear: both;"></div>
+<br>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" alt="GitHub activity graph">
+</div>
+
+<hr>
 
 ## Projetos em destaque
 
