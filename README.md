@@ -51,6 +51,22 @@ Gerador de *box-shadow* interativo e responsivo. Desenvolvido para praticar a **
 
 Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semântica com **HTML5** e estilização avançada com **CSS3**. O projeto aplica conceitos fundamentais de design responsivo e usabilidade. Desenvolvido em colaboração com [Leosouza-devv](https://github.com/Leosouza-devv).
 
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&theme=dark" alt="Top Languages" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrfm&theme=dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsrfm&theme=dark" alt="Profile Details" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## Stack e ferramentas
