@@ -27,21 +27,17 @@ Estudante de Engenharia de Software na **UniVassouras**, primeiro período, foca
 
 
 ## Foco no momento
+<img align="right" src="assets/flame.png" alt="Chama" width="155" style="margin-left: 24px; margin-bottom: 8px;">
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Construir uma base <b>sólida em JavaScript</b> — DOM, APIs, lógica assíncrona.</li>
-        <li>Aprender <b>back-end com Node.js</b>: rotas, banco de dados, autenticação.</li>
-        <li>Melhorar <b>organização e documentação</b> dos projetos — código limpo é hábito.</li>
-      </ul>
-    </td>
-    <td width="160px" align="right" valign="top">
-      <img src="assets/flame.png" alt="Chama" width="155">
-    </td>
-  </tr>
-</table>
+No momento, meu foco principal está em construir uma base **sólida em JavaScript**, explorando a fundo a manipulação de DOM, integração com APIs e lógica assíncrona antes de avançar para frameworks. Paralelamente, estou mergulhando no **back-end com Node.js** para entender como funcionam rotas, bancos de dados e autenticação, que são os pilares de um sistema real. Além disso, tenho me dedicado a transformar a **organização e documentação** em um hábito, acreditando que código limpo e bem explicado não é apenas um luxo, mas um diferencial essencial para qualquer desenvolvedor.
+
+<br clear="right"/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" alt="GitHub activity graph">
+</div>
+
+<hr>
 
 <br>
 
