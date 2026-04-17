@@ -88,4 +88,4 @@ Descrição curta do que o projeto faz e qual problema resolve.
   — <i>Miyamoto Musashi</i>
 </p>
 
-![footer](https://raw.githubusercontent.com/AndresSaldana/AndresSaldana/master/img/fire_line.gif)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=ff4500&height=120&section=footer)
