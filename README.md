@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" width="100%">
+  <img src="https://raw.githubusercontent.com/AndresSaldana/AndresSaldana/master/img/fire_line.gif" width="100%">
 </p>
