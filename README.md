@@ -53,11 +53,9 @@ Gerador de *box-shadow* interativo e responsivo. Desenvolvido para praticar a **
 
 <br>
 
-[![Trabalho-de-Desenvolvimento-Web](https://img.shields.io/badge/Trabalho--de--Desenvolvimento--Web-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web)
+[![Trabalho-de-Desenvolvimento-Web](https://img.shields.io/badge/Trabalho--Dev--Web-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web)
 
 Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semântica com **HTML5** e estilização avançada com **CSS3**. O projeto aplica conceitos fundamentais de design responsivo e usabilidade. Desenvolvido em colaboração com [Leosouza-devv](https://github.com/Leosouza-devv).
-
-<br>
 
 ---
 
