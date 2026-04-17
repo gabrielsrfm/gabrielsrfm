@@ -25,7 +25,6 @@ Estudante de Engenharia de Software na **UniVassouras**, primeiro período, foca
 
 <hr>
 
-<br>
 
 ## Foco no momento
 
