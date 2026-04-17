@@ -88,4 +88,6 @@ Descrição curta do que o projeto faz e qual problema resolve.
   — <i>Miyamoto Musashi</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eeeeee&height=100&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" width="100%">
+</p>
