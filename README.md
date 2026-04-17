@@ -15,7 +15,7 @@
 
 ---
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
+<h2 style="border-bottom: none !important; padding-bottom: 0; margin-bottom: 0;">Sobre mim</h2>
 
 <img align="left" src="assets/brain.png" alt="Cérebro halftone" width="175" style="margin-right: 24px; margin-bottom: 8px;">
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
+<h2 style="border-bottom: none !important; padding-bottom: 0; margin-bottom: 0;">Foco no momento</h2>
 
 <img align="right" src="assets/flame.png" alt="Chama halftone" width="155" style="margin-left: 24px; margin-bottom: 8px;">
 
