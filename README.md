@@ -39,14 +39,6 @@ No momento, meu foco principal está em construir uma base **sólida em JavaScri
 
 <hr>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" alt="GitHub activity graph">
-</div>
-
-<hr>
-
 ## Projetos em destaque
 
 [![shady-box](https://img.shields.io/badge/shady--box-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box)
