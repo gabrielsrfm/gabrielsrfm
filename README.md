@@ -78,7 +78,9 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/gabrielsrfm/gabrielsrfm/output/github-contribution-grid-snake-dark.svg?v=2)
+<div align="center">
+  ![Snake animation](https://raw.githubusercontent.com/gabrielsrfm/gabrielsrfm/output/github-contribution-grid-snake-dark.svg?v=2)
+</div>
 
 ---
 
