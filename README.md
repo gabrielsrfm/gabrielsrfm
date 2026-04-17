@@ -86,7 +86,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gabrielsrfm/gabrielsrfm/output/snake.svg" alt="Snake animation" />
 
 ---
 
