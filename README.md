@@ -78,11 +78,7 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielsrfm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats">
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/gabrielsrfm/gabrielsrfm/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
