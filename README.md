@@ -3,14 +3,19 @@
 </a>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ESTUDANDO-black?style=for-the-badge&logo=linux&logoColor=white" alt="Status">
-<img src="https://img.shields.io/badge/CURSO-ENG.%20DE%20SOFTWARE-black?style=for-the-badge&logo=gitbook&logoColor=white" alt="Curso">
-<img src="https://img.shields.io/badge/LOC-VASSOURAS_RJ-black?style=for-the-badge" alt="Localização">
-<img src="https://img.shields.io/badge/STACK-FULLSTACK-black?style=for-the-badge&logoColor=white" alt="Fullstack">
-<img src="https://img.shields.io/badge/FOCO-JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/MODE-1%C2%BA%20PER%C3%8DODO-black?style=for-the-badge&logoColor=white" alt="1º período">
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&theme=dark" alt="Top Languages" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrfm&theme=dark" alt="Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsrfm&theme=dark" alt="Profile Details" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
