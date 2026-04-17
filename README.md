@@ -15,33 +15,29 @@
 
 ---
 
-## Sobre mim
+<h2 style="border-bottom: none; padding-bottom: 0;">Sobre mim</h2>
 
 <img align="left" src="assets/brain.png" alt="Cérebro halftone" width="175" style="margin-right: 24px; margin-bottom: 8px;">
 
-Estudante de Engenharia de Software na **UniVassouras**, primeiro período, focado em construir uma base sólida no desenvolvimento fullstack.
+<p>Estudante de Engenharia de Software na <b>UniVassouras</b>, primeiro período, focado em construir uma base sólida no desenvolvimento fullstack. Gosto de entender como as coisas funcionam por baixo dos panos — não só copiar código, mas saber <b>por que</b> ele funciona. Trabalho principalmente com <b>JavaScript</b>, tanto no front quanto no back, e estou constantemente explorando novas ferramentas e conceitos.</p>
 
-Gosto de entender como as coisas funcionam por baixo dos panos — não só copiar código, mas saber **por que** ele funciona. Trabalho principalmente com **JavaScript**, tanto no front quanto no back, e estou constantemente explorando novas ferramentas e conceitos.
+<p><b>Como penso sobre aprender:</b> prefiro construir projetos reais a ficar só assistindo tutorial. Erro, debugo, entendo — e guardo isso melhor do que qualquer slide.</p>
 
-**Como penso sobre aprender:** prefiro construir projetos reais a ficar só assistindo tutorial. Erro, debugo, entendo — e guardo isso melhor do que qualquer slide.
-
-<br clear="left"/>
+<div style="clear: both;"></div>
 
 ---
 
-## Foco no momento
+<h2 style="border-bottom: none; padding-bottom: 0;">Foco no momento</h2>
 
 <img align="right" src="assets/flame.png" alt="Chama halftone" width="155" style="margin-left: 24px; margin-bottom: 8px;">
 
-- Construir uma base **sólida em JavaScript** — DOM, APIs, lógica assíncrona, antes de sair pra framework.
-- Aprender **back-end com Node.js**: rotas, banco de dados, autenticação — o que faz um sistema funcionar de verdade.
-- Melhorar **organização e documentação** dos projetos desde o início — código limpo não é luxo, é hábito.
+<ul>
+  <li>Construir uma base <b>sólida em JavaScript</b> — DOM, APIs, lógica assíncrona, antes de sair pra framework.</li>
+  <li>Aprender <b>back-end com Node.js</b>: rotas, banco de dados, autenticação — o que faz um sistema funcionar de verdade.</li>
+  <li>Melhorar <b>organização e documentação</b> dos projetos desde o início — código limpo não é luxo, é hábito.</li>
+</ul>
 
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" alt="GitHub activity graph">
-</div>
+<div style="clear: both;"></div>
 
 ---
 
