@@ -28,11 +28,20 @@ Estudante de Engenharia de Software na **UniVassouras**, primeiro período, foca
 
 ## Foco no momento
 
-<img align="right" src="assets/flame.png" alt="Chama" width="155" style="margin-left: 24px;">
-
-* Construir uma base **sólida em JavaScript** — DOM, APIs, lógica assíncrona.
-* Aprender **back-end com Node.js**: rotas, banco de dados, autenticação.
-* Melhorar **organização e documentação** dos projetos — código limpo é hábito.
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>Construir uma base <b>sólida em JavaScript</b> — DOM, APIs, lógica assíncrona.</li>
+        <li>Aprender <b>back-end com Node.js</b>: rotas, banco de dados, autenticação.</li>
+        <li>Melhorar <b>organização e documentação</b> dos projetos — código limpo é hábito.</li>
+      </ul>
+    </td>
+    <td width="160px" align="right" valign="top">
+      <img src="assets/flame.png" alt="Chama" width="155">
+    </td>
+  </tr>
+</table>
 
 <br>
 
