@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://postimg.cc/sBPDSZFT" width="100%">
+  <img src="https://i.postimg.cc/1z2gkpv1/9299c4cf-184f-4671-bf32-0b60748f880c.png" width="100%">
 </p>
