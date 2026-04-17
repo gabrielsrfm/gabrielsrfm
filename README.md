@@ -47,16 +47,21 @@ Gosto de entender como as coisas funcionam por baixo dos panos — não só copi
 
 ## Projetos em destaque
 
-> Em breve — primeiros projetos sendo construídos. Acompanha o repositório.
+<p>
+  <a href="https://github.com/gabrielsrfm/shady-box">
+    <img src="https://img.shields.io/badge/Nome_Do_Projeto-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="shady-box">
+  </a>
+</p>
 
-<!-- Quando tiver projetos, descomenta e preenche:
+Gerador de *box-shadow* interativo e responsivo. Desenvolvido para praticar a **manipulação de DOM com JavaScript** e layouts complexos utilizando **Flexbox e Grid**. Ideal para quem quer visualizar sombras CSS em tempo real.
 
-[![Projeto](https://img.shields.io/badge/NomeDoProjeto-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/REPO)
+<p>
+  <a href="https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web">
+    <img src="https://img.shields.io/badge/Outro_Projeto-repositório-black?style=for-the-badge&logo=github&logoColor=white" alt="Trabalho-de-Desenvolvimento-web">
+  </a>
+</p>
 
-Descrição curta do que o projeto faz e qual problema resolve.
-
--->
-
+Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semântica com **HTML5** e estilização avançada com **CSS3**. O projeto aplica conceitos fundamentais de design responsivo e usabilidade. Desenvolvido em colaboração com [Leosouza-devv](https://github.com/Leosouza-devv).
 ---
 
 ## Stack e ferramentas
