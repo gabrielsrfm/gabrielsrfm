@@ -3,19 +3,11 @@
 </a>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&theme=dark" alt="Top Languages" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrfm&theme=dark" alt="Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsrfm&theme=dark" alt="Profile Details" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/STATUS-STUDENT-grey?style=for-the-badge&logo=github" alt="Student">
+  <img src="https://img.shields.io/badge/LEVEL-1º%20PERÍODO-black?style=for-the-badge" alt="1 Período">
+  <img src="https://img.shields.io/badge/LOCATION-VASSOURAS--RJ-grey?style=for-the-badge" alt="Vassouras">
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-black?style=for-the-badge" alt="Fullstack">
+  <img src="https://img.shields.io/badge/MAIN-JAVASCRIPT-grey?style=for-the-badge&logo=javascript" alt="JavaScript">
 </div>
 
 ---
@@ -49,8 +41,6 @@ No momento, meu foco principal está em construir uma base **sólida em JavaScri
 [![shady-box](https://img.shields.io/badge/shady--box-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box)
 
 Gerador de *box-shadow* interativo e responsivo. Desenvolvido para praticar a **manipulação de DOM com JavaScript** e layouts complexos utilizando **Flexbox e Grid**. Ideal para quem quer visualizar sombras CSS em tempo real.
-
-<br>
 
 [![Trabalho-de-Desenvolvimento-Web](https://img.shields.io/badge/Trabalho--Dev--Web-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web)
 
