@@ -88,6 +88,4 @@ Descrição curta do que o projeto faz e qual problema resolve.
   — <i>Miyamoto Musashi</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndresSaldana/AndresSaldana/master/img/fire_line.gif" width="100%">
-</p>
+![footer](https://raw.githubusercontent.com/AndresSaldana/AndresSaldana/master/img/fire_line.gif)
