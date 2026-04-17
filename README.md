@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZpZ3R4bmZpZ3R4bmZpZ3R4bmZpZ3R4bmZpZ3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ25vcmVkJmN0PWc/3o7TKMGpxxcaOlfK9y/giphy.gif" width="100%" height="50px">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=ff0000&height=120&section=footer" width="100%">
 </p>
