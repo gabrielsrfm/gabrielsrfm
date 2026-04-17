@@ -60,7 +60,7 @@ Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semâ
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&theme=dark&count=5" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&theme=dark" alt="Top Languages" />
       </td>
       <td align="center" valign="top">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrfm&theme=dark" alt="Stats" />
