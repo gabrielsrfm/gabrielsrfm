@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trvsh9x/Trvsh9x/main/assets/fire-line.gif" width="100%" height="40px">
+  <img src="https://64.media.tumblr.com/79109063234d707c0a76c8f96e70942e/tumblr_inline_p4v7e3P3sB1u637id_540.gif" width="100%" height="50px" style="filter: grayscale(100%);">
 </p>
