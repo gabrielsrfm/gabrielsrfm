@@ -89,5 +89,5 @@ Descrição curta do que o projeto faz e qual problema resolve.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=footer" width="100%">
+  ![footer](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=20&section=footer)
 </p>
