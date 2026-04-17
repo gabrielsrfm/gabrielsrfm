@@ -82,10 +82,10 @@ Descrição curta do que o projeto faz e qual problema resolve.
 
 ---
 
-<div align="center">
-
-> *"Todo expert já foi iniciante. A diferença é que continuou."*
-
-</div>
+<p align="center">
+  <b>"O destino não é uma corrente, é um espelho. O que você chama de 'azar' é apenas o reflexo da sua própria negligência acumulada."</b>
+  <br>
+  — <i>Miyamoto Musashi</i>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:eeeeee&height=100&section=footer)
