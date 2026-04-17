@@ -2,13 +2,15 @@
   <img src="https://i.postimg.cc/W3bPchHX/GABRIEL-SERAFIM-FREITAS-(1).png" width="100%" alt="gabrielsrfm Banner"/>
 </a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-STUDENT-grey?style=for-the-badge&logo=github" alt="Student">
-  <img src="https://img.shields.io/badge/LEVEL-1º%20PERÍODO-black?style=for-the-badge" alt="1 Período">
-  <img src="https://img.shields.io/badge/LOCATION-VASSOURAS--RJ-grey?style=for-the-badge" alt="Vassouras">
-  <img src="https://img.shields.io/badge/STACK-FULLSTACK-black?style=for-the-badge" alt="Fullstack">
-  <img src="https://img.shields.io/badge/MAIN-JAVASCRIPT-grey?style=for-the-badge&logo=javascript" alt="JavaScript">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-STUDENT-success?style=for-the-badge&logo=github&logoColor=white&color=black" alt="Status" />
+  <img src="https://img.shields.io/badge/UNI-VASSOURAS-blue?style=for-the-badge&color=black" alt="Universidade" />
+  <img src="https://img.shields.io/badge/COURSE-SOFTWARE_ENG-orange?style=for-the-badge&color=black" alt="Curso" />
+  <img src="https://img.shields.io/badge/LEVEL-1º_PERÍODO-critical?style=for-the-badge&color=black" alt="Período" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&logoColor=white&color=black" alt="Fullstack" />
+  <img src="https://img.shields.io/badge/FOCUS-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="Foco" />
+  <img src="https://img.shields.io/badge/WORKFLOW-LEARNING-success?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Workflow" />
+</p>
 
 ---
 
