@@ -48,7 +48,7 @@ Gerador de *box-shadow* interativo e responsivo. Desenvolvido para praticar a **
 
 Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semântica com **HTML5** e estilização avançada com **CSS3**. O projeto aplica conceitos fundamentais de design responsivo e usabilidade. Desenvolvido em colaboração com [Leosouza-devv](https://github.com/Leosouza-devv).
 
-[![Gerador-de-Senhas](https://img.shields.io/badge/gerador--senhas-repositório-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/gabrielsrfm/gerador-senhas](https://github.com/gabrielsrfm/Gerador-de-Senhas))
+[![Gerador-de-Senhas](https://img.shields.io/badge/Gerador--de--Senhas-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Gerador-de-Senhas)
 
 Gerador de senhas aleatórias e seguras. Desenvolvido para praticar **lógica com JavaScript** e manipulação de **DOM**. Permite configurar comprimento, tipos de caracteres e exibe um indicador de força da senha em tempo real.
 
