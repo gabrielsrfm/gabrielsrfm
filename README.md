@@ -28,7 +28,7 @@ Estudante de Engenharia de Software na **UniVassouras**, primeiro período, foca
 ## Foco no momento
 <img align="right" src="assets/flame.png" alt="Chama" width="155" style="margin-left: 24px; margin-bottom: 8px;">
 
-No momento, meu foco principal está em construir uma base **sólida em JavaScript**, explorando a fundo a manipulação de DOM, integração com APIs e lógica assíncrona antes de avançar para frameworks. Paralelamente, estou mergulhando no **back-end com Node.js** para entender como funcionam rotas, bancos de dados e autenticação, que são os pilares de um sistema real. Além disso, tenho me dedicado a transformar a **organização e documentação** em um hábito, acreditando que código limpo e bem explicado não é apenas um luxo, mas um diferencial essencial para qualquer desenvolvedor.
+No momento, meu foco principal está em construir uma base sólida em JavaScript, explorando a fundo a manipulação de DOM, integração com APIs e lógica assíncrona antes de avançar para frameworks. Paralelamente, estou mergulhando no back-end com Node.js para entender como funcionam rotas, bancos de dados e autenticação, que são os pilares de um sistema real. Além disso, tenho me dedicado a transformar a organização e documentação em um hábito, acreditando que código limpo e bem explicado não é apenas um luxo, mas um diferencial essencial para qualquer desenvolvedor. 
 
 <br clear="right"/>
 
