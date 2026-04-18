@@ -52,6 +52,10 @@ Trabalho Acadêmico (1º Período | UniVassouras) focado em estruturação semâ
 
 Gerador de senhas aleatórias e seguras. Desenvolvido para praticar **lógica com JavaScript** e manipulação de **DOM**. Permite configurar comprimento, tipos de caracteres e exibe um indicador de força da senha em tempo real.
 
+[![Gerador-de-Sabedoria](https://img.shields.io/badge/Gerador--de--Sabedoria-repositório-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/gerador-de-sabedoria)
+
+Aplicação web que consome a API pública quotable.io para exibir frases inspiradoras aleatórias. Desenvolvido para praticar consumo de APIs com Fetch e manipulação de DOM. Exibe autor e categoria de cada frase, com fallback automático para frases locais caso a API esteja indisponível.
+
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
