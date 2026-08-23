@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-STUDENT-success?style=for-the-badge&logo=linux&logoColor=white&color=black" alt="Status" />
-  <img src="https://img.shields.io/badge/TERM-1º_PERÍODO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Learning" />
+  <img src="https://img.shields.io/badge/TERM-2º_PERÍODO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=black" alt="Learning" />
   <img src="https://img.shields.io/badge/COURSE-SOFTWARE_ENG-orange?style=for-the-badge&color=black" alt="Engenharia de Software" />
   <img src="https://img.shields.io/badge/LOC-VASSOURAS_RJ-blue?style=for-the-badge&color=black" alt="Localização" />
   <img src="https://img.shields.io/badge/STACK-FULLSTACK-9cf?style=for-the-badge&logoColor=white&color=black" alt="Fullstack" />
