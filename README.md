@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-success?style=for-the-badge&logo=linux&logoColor=white&color=0d0d0d" alt="Status" />
-  <img src="https://img.shields.io/badge/ENG._DE_SOFTWARE-2º%2F3º_PERÍODO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=0d0d0d" alt="Graduação" />
-  <img src="https://img.shields.io/badge/LOC-VASSOURAS_RJ-blue?style=for-the-badge&color=0d0d0d" alt="Localização" />
-  <img src="https://img.shields.io/badge/FOCUS-PYTHON_%26_BACKEND-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&color=0d0d0d" alt="Foco" />
-  <img src="https://img.shields.io/badge/WORKFLOW-CLEAN_CODE-success?style=for-the-badge&logo=jetbrains&logoColor=white&color=0d0d0d" alt="Workflow" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS-success?style=for-the-badge&logo=linux&logoColor=white&color=161b22" alt="Status" />
+  <img src="https://img.shields.io/badge/ENG._DE_SOFTWARE-2º%2F3º_PERÍODO-informational?style=for-the-badge&logo=gitbook&logoColor=white&color=161b22" alt="Graduação" />
+  <img src="https://img.shields.io/badge/LOC-VASSOURAS_RJ-blue?style=for-the-badge&color=161b22" alt="Localização" />
+  <img src="https://img.shields.io/badge/FOCUS-PYTHON_%26_BACKEND-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&color=161b22" alt="Foco" />
+  <img src="https://img.shields.io/badge/WORKFLOW-CLEAN_CODE-success?style=for-the-badge&logo=jetbrains&logoColor=white&color=161b22" alt="Workflow" />
 </p>
 
 ---
@@ -40,8 +40,6 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Inovação, Pesquisa & Conquistas
 
-Além dos projetos de código, atuo na resolução de problemas reais por meio de maratonas nacionais e pesquisa aplicada:
-
 - **haCARthon — Maratona de Soluções para o CAR (Enap):** Participação na *Equipe 79 (Simplificar)* em maratona nacional de inovação aberta voltada a soluções tecnológicas para o Cadastro Ambiental Rural.
 - **Programa Centelha 3 RJ — Projeto Territória:** Aprovado na Fase 1 do programa estadual de empreendedorismo inovador com solução de inteligência territorial integrada.
 - **Pesquisa & Extensão — Faculdade de Engenharia (UFJF):** Análise crítica de eficiência energética em ambientes escolares e proposição de soluções sustentáveis para gestão institucional.
@@ -51,63 +49,44 @@ Além dos projetos de código, atuo na resolução de problemas reais por meio d
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrielsrfm/shady-box">shady-box</a></h3>
-      <p>Gerador interativo e responsivo de <code>box-shadow</code> para visualização de sombras CSS em tempo real, aplicando layouts com Flexbox e Grid.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript" alt="JS" />
-        <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3" alt="CSS3" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrielsrfm/gerador-de-sabedoria">Gerador de Sabedoria</a></h3>
-      <p>Aplicação web que consome a API pública <code>quotable.io</code> via Fetch para exibir citações por autor e categoria, com fallback automático local.</p>
-      <p>
-        <img src="https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=javascript" alt="API" />
-        <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3" alt="CSS3" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrielsrfm/Gerador-de-Senhas">Gerador de Senhas</a></h3>
-      <p>Gerador de senhas seguras com configuração de comprimento, conjuntos de caracteres e indicador de força em tempo real.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript" alt="JS" />
-        <img src="https://img.shields.io/badge/DOM-0d0d0d?style=flat-square&logo=html5" alt="DOM" />
-        <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3" alt="CSS3" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web">Trabalho de Desenvolvimento Web</a></h3>
-      <p>Projeto acadêmico (Univassouras) focado em semântica HTML5, responsividade e usabilidade. Desenvolvido em parceria com <a href="https://github.com/Leosouza-devv">@Leosouza-devv</a>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3" alt="CSS3" />
-      </p>
-    </td>
-  </tr>
-</table>
+[![shady-box](https://img.shields.io/badge/shady--box-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+Gerador interativo e responsivo de `box-shadow` para visualização de sombras CSS em tempo real, aplicando layouts com Flexbox e Grid.
+
+<br>
+
+[![Gerador de Sabedoria](https://img.shields.io/badge/gerador--de--sabedoria-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/gerador-de-sabedoria) ![REST API](https://img.shields.io/badge/REST_API-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+Aplicação web que consome a API pública `quotable.io` via Fetch para exibir citações por autor e categoria, com fallback automático local.
+
+<br>
+
+[![Gerador de Senhas](https://img.shields.io/badge/Gerador--de--Senhas-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Gerador-de-Senhas) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+Gerador de senhas seguras com configuração de comprimento, conjuntos de caracteres e indicador de força em tempo real.
+
+<br>
+
+[![Trabalho de Desenvolvimento Web](https://img.shields.io/badge/Trabalho--Dev--Web-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+Projeto acadêmico (Univassouras) focado em semântica HTML5, responsividade e usabilidade. Desenvolvido em parceria com [@Leosouza-devv](https://github.com/Leosouza-devv).
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <imagem fonte="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logotipo=sqlite&logotipoCor=003B57" alt="SQL" />
-  <imagem fonte="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logotipo=html5&logotipoCor=E34F26" alt="HTML5" />
-  <imagem fonte="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logotipo=css3&logotipoCor=1572B6" alt="CSS3" />
-  <imagem fonte="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logotipo=git&logotipoCor=F05032" alt="Git" />
-  <imagem fonte="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logotipo=github&logoColor=branco" alt="GitHub" />
-  <imagem fonte="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logotipo=linux&logoColor=FCC624" alt="Linux" />
-  <imagem fonte="https://img.shields.io/badge/PyCharm-0d0d0d?style=for-the-badge&logotipo=pycharm&logotipoCor=21D789" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=sqlite&logoColor=4479A1" alt="SQL" />
+  <imagem fonte="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logotipo=html5&logotipoCor=E34F26" alt="HTML5" />
+  <imagem fonte="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logotipo=css3&logotipoCor=1572B6" alt="CSS3" />
+  <br>
+  <imagem fonte="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logotipo=git&logotipoCor=F05032" alt="Git" />
+  <imagem fonte="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logotipo=github&logoColor=branco" alt="GitHub" />
+  <imagem fonte="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logotipo=linux&logoColor=FCC624" alt="Linux" />
+  <imagem fonte="https://img.shields.io/badge/PyCharm-161b22?style=for-the-badge&logotipo=pycharm&logotipoCor=21D789" alt="PyCharm" />
 </p>
 
 ---
