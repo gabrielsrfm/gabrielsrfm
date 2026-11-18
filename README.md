@@ -40,7 +40,7 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Inovação, Pesquisa & Conquistas
 
-<img align="left" src="https://github.com/user-attachments/assets/feefc83a-4faa-4da2-b10f-7b23f9e8f5bc" alt="Busto Clássico" width="175" hspace="20">
+<img align="left" src="https://github.com/user-attachments/assets/dd2463f2-96df-47cb-8879-2ff8608ce3b5" alt="Busto Clássico" width="175" hspace="20">
 
 <p>
   • <b>haCARthon — Maratona de Soluções para o CAR (Enap):</b> Participação na <i>Equipe 79 (Simplificar)</i> em maratona nacional de inovação aberta voltada a soluções tecnológicas para o Cadastro Ambiental Rural.<br><br>
@@ -57,15 +57,5 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ### [shady-box](https://github.com/gabrielsrfm/shady-box) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box)
 > Gerador interativo e responsivo de `box-shadow` para visualização de sombras CSS em tempo real, aplicando layouts com Flexbox e Grid.
->
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### [gerador-de-sabedoria](https://github.com/gabrielsrfm/gerador-de-sabedoria) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/gerador-de-sabedoria)
-> Aplicação web que consome a API pública `quotable.io` via Fetch para exibir citações por autor e categoria, com fallback automático local.
->
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### [Gerador-de-Senhas](https://github.com/gabrielsrfm/Gerador-de-Senhas) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Gerador-de-Senhas)
-> Gerador de senhas seguras com configuração de comprimento, conjuntos de caracteres e indicador de força em tempo real.
 >
 > ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](
