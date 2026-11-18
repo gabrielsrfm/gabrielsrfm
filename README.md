@@ -40,10 +40,14 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Inovação, Pesquisa & Conquistas
 
+<img align="left" src="assets/statue.png" alt="Busto Clássico" width="160" style="margin-right: 24px;">
+
 - **haCARthon — Maratona de Soluções para o CAR (Enap):** Participação na *Equipe 79 (Simplificar)* em maratona nacional de inovação aberta voltada a soluções tecnológicas para o Cadastro Ambiental Rural.
 - **Programa Centelha 3 RJ — Projeto Territória:** Aprovado na Fase 1 do programa estadual de empreendedorismo inovador com solução de inteligência territorial integrada.
 - **Pesquisa & Extensão — Faculdade de Engenharia (UFJF):** Análise crítica de eficiência energética em ambientes escolares e proposição de soluções sustentáveis para gestão institucional.
 - **Formação Complementar (IFRS):** Trilhas concluídas em *Desenvolvimento de APIs REST com Node.js*, *Banco de Dados & SQL*, *Algoritmos e Estruturas de Dados*, *POO com Java* e *Desenvolvimento Web (HTML5/CSS3)*.
+
+<br clear="left"/>
 
 ---
 
