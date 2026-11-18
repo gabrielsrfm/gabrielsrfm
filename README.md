@@ -16,7 +16,7 @@
 
 <img align="left" src="assets/brain.png" alt="Cérebro" width="165" style="margin-right: 24px;">
 
-Estudante de **Bacharelado em Engenharia de Software** na **Universidade de Vassouras** (2º período, ingressando no 3º), direcionando minha evolução técnica para **desenvolvimento back-end com Python**, **bancos de dados** e **construção de APIs**.
+Estudante de **Bacharelado em Engenharia de Software** na **Universidade de Vassouras** (2° período, ingressando no 3°), direcionando minha evolução técnica para **desenvolvimento back-end com Python**, **bancos de dados** e **construção de APIs**.
 
 Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas fazer rodar, mas saber **por que** cada estrutura foi escolhida. Venho de uma base prática em **JavaScript, HTML5 e CSS3** e hoje concentro meus estudos em algoritmos, estruturas de dados, Programação Orientada a Objetos (POO) e boas práticas de documentação.
 
