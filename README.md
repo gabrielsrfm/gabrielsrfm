@@ -16,7 +16,7 @@
 
 <img align="left" src="assets/brain.png" alt="Cérebro" width="165" style="margin-right: 24px;">
 
-Estudante de **Bacharelado em Engenharia de Software** na **Universidade de Vassouras** (2° período, ingressando no 3°), direcionando minha evolução técnica para **desenvolvimento back-end com Python**, **bancos de dados** e **construção de APIs**.
+Estudante de **Bacharelado em Engenharia de Software** na **Universidade de Vassouras** (2º período, ingressando no 3º), direcionando minha evolução técnica para **desenvolvimento back-end com Python**, **bancos de dados** e **construção de APIs**.
 
 Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas fazer rodar, mas saber **por que** cada estrutura foi escolhida. Venho de uma base prática em **JavaScript, HTML5 e CSS3** e hoje concentro meus estudos em algoritmos, estruturas de dados, Programação Orientada a Objetos (POO) e boas práticas de documentação.
 
@@ -49,44 +49,42 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Projetos em destaque
 
-[![shady-box](https://img.shields.io/badge/shady--box-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+### [shady-box](https://github.com/gabrielsrfm/shady-box) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/shady-box)
+> Gerador interativo e responsivo de `box-shadow` para visualização de sombras CSS em tempo real, aplicando layouts com Flexbox e Grid.
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Gerador interativo e responsivo de `box-shadow` para visualização de sombras CSS em tempo real, aplicando layouts com Flexbox e Grid.
+### [gerador-de-sabedoria](https://github.com/gabrielsrfm/gerador-de-sabedoria) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/gerador-de-sabedoria)
+> Aplicação web que consome a API pública `quotable.io` via Fetch para exibir citações por autor e categoria, com fallback automático local.
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
+### [Gerador-de-Senhas](https://github.com/gabrielsrfm/Gerador-de-Senhas) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Gerador-de-Senhas)
+> Gerador de senhas seguras com configuração de comprimento, conjuntos de caracteres e indicador de força em tempo real.
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Gerador de Sabedoria](https://img.shields.io/badge/gerador--de--sabedoria-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/gerador-de-sabedoria) ![REST API](https://img.shields.io/badge/REST_API-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-Aplicação web que consome a API pública `quotable.io` via Fetch para exibir citações por autor e categoria, com fallback automático local.
-
-<br>
-
-[![Gerador de Senhas](https://img.shields.io/badge/Gerador--de--Senhas-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Gerador-de-Senhas) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-Gerador de senhas seguras com configuração de comprimento, conjuntos de caracteres e indicador de força em tempo real.
-
-<br>
-
-[![Trabalho de Desenvolvimento Web](https://img.shields.io/badge/Trabalho--Dev--Web-repositório-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web) ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-Projeto acadêmico (Univassouras) focado em semântica HTML5, responsividade e usabilidade. Desenvolvido em parceria com [@Leosouza-devv](https://github.com/Leosouza-devv).
+### [Trabalho-de-Desenvolvimento-web](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web) &nbsp;[![Ver Código](https://img.shields.io/badge/Ver_Código-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/gabrielsrfm/Trabalho-de-Desenvolvimento-web)
+> Projeto acadêmico (Univassouras) focado em semântica HTML5, responsividade e usabilidade. Desenvolvido em parceria com [@Leosouza-devv](https://github.com/Leosouza-devv).
+>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=sqlite&logoColor=4479A1" alt="SQL" />
-  <imagem fonte="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logotipo=html5&logotipoCor=E34F26" alt="HTML5" />
-  <imagem fonte="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logotipo=css3&logotipoCor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <imagem fonte="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logotipo=html5&logoColor=branco" alt="HTML5" />
+  <imagem fonte="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logotipo=css3&logoColor=branco" alt="CSS3" />
   <br>
-  <imagem fonte="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logotipo=git&logotipoCor=F05032" alt="Git" />
-  <imagem fonte="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logotipo=github&logoColor=branco" alt="GitHub" />
-  <imagem fonte="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logotipo=linux&logoColor=FCC624" alt="Linux" />
-  <imagem fonte="https://img.shields.io/badge/PyCharm-161b22?style=for-the-badge&logotipo=pycharm&logotipoCor=21D789" alt="PyCharm" />
+  <imagem fonte="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logotipo=git&logoColor=branco" alt="Git" />
+  <imagem fonte="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logotipo=github&logoColor=branco" alt="GitHub" />
+  <imagem fonte="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logotipo=linux&logotipoCor=preto" alt="Linux" />
+  <imagem fonte="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logotipo=pycharm&logotipoCor=preto" alt="PyCharm" />
 </p>
 
 ---
