@@ -40,14 +40,14 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Inovação, Pesquisa & Conquistas
 
-<img align="left" src="assets/statue.png" alt="Busto Clássico" width="160" style="margin-right: 24px;">
+<img align="right" src="https://github.com/user-attachments/assets/fe5c1c71-b300-4ccc-b45b-dedf00167e82" alt="Busto Clássico" width="160" style="margin-left: 24px; margin-bottom: 8px;">
 
 - **haCARthon — Maratona de Soluções para o CAR (Enap):** Participação na *Equipe 79 (Simplificar)* em maratona nacional de inovação aberta voltada a soluções tecnológicas para o Cadastro Ambiental Rural.
 - **Programa Centelha 3 RJ — Projeto Territória:** Aprovado na Fase 1 do programa estadual de empreendedorismo inovador com solução de inteligência territorial integrada.
 - **Pesquisa & Extensão — Faculdade de Engenharia (UFJF):** Análise crítica de eficiência energética em ambientes escolares e proposição de soluções sustentáveis para gestão institucional.
 - **Formação Complementar (IFRS):** Trilhas concluídas em *Desenvolvimento de APIs REST com Node.js*, *Banco de Dados & SQL*, *Algoritmos e Estruturas de Dados*, *POO com Java* e *Desenvolvimento Web (HTML5/CSS3)*.
 
-<br clear="left"/>
+<br clear="right"/>
 
 ---
 
@@ -82,61 +82,5 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <imagem fonte="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logotipo=html5&logoColor=branco" alt="HTML5" />
-  <imagem fonte="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logotipo=css3&logoColor=branco" alt="CSS3" />
-  <br>
-  <imagem fonte="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logotipo=git&logoColor=branco" alt="Git" />
-  <imagem fonte="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logotipo=github&logoColor=branco" alt="GitHub" />
-  <imagem fonte="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logotipo=linux&logotipoCor=preto" alt="Linux" />
-  <imagem fonte="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logotipo=pycharm&logotipoCor=preto" alt="PyCharm" />
-</p>
-
----
-
-## Estatísticas e Atividade
-
-<dividir alinhar="centro">
-  <imagem fonte="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsrfm&tema=github-compact&bg_color=0d0d0d&cor=ffffff&linha=ffffff&ponto=888888&área=verdadeiro&ocultar_fronteira=verdadeiro" alt="Gráfico de atividades do GitHub" />
-</dividir>
-
-<dividir alinhar="centro">
-  <mesa fronteira="0" espaçamento entre células="0" preenchimento de células="0">
-    <tr>
-      <td alinhar="centro" valign="topo">
-        <imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsrfm&tema=escuro" alt="Principais línguas" />
-      </td>
-      <td alinhar="centro" valign="topo">
-        <imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsrfm&tema=escuro" alt="Estatísticas" />
-      </td>
-      <td alinhar="centro" valign="topo">
-        <imagem fonte="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsrfm&tema=escuro" alt="Detalhes do perfil" />
-      </td>
-    </tr>
-  </mesa>
-</dividir>
-
----
-
-## Conectar
-
-<dividir alinhar="centro">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielserafim--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielserafim-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-gabrielserafim.eng-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielserafim.eng@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-gabrielserafim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielserafim.dev/)
-
-</dividir>
-
----
-
-![Animação de cobra](https://raw.githubusercontent.com/gabrielsrfm/gabrielsrfm/output/github-contribution-grid-snake-dark.svg?v=7)
-
----
-
-<p alinhar="centro">
-  <b>"O destino não é uma corrente, é um espelho. O que você chama de 'azar' é apenas o reflexo da sua prioridade negligência acumulada."</b>
-  <br>
-  — <i>Miyamoto Musashi</i>
-</p>
-
-![rodapé](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="
