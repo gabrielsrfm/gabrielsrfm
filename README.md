@@ -40,7 +40,7 @@ Gosto de entender como os sistemas funcionam por baixo dos panos — não apenas
 
 ## Inovação, Pesquisa & Conquistas
 
-<img align="left" src="https://github.com/user-attachments/assets/21d0e02b-66c7-440d-81f4-3c5270b1fc8c" alt="Pomba" width="175" hspace="20">
+<img align="left" src="https://github.com/user-attachments/assets/21d0e02b-66c7-440d-81f4-3c5270b1fc8c" alt="Pomba" width="210" hspace="20">
 
 <p>
   • <b>haCARthon — Maratona de Soluções para o CAR (Enap):</b> Participação na <i>Equipe 79 (Simplificar)</i> em maratona nacional de inovação aberta voltada a soluções tecnológicas para o Cadastro Ambiental Rural.<br><br>
